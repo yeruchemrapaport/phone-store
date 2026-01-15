@@ -23,4 +23,4 @@ create table dbo. Phone(
        QuantityInStock int not null
            CONSTRAINT ck_Quantity_In_Stock_cannot_be_negative check (QuantityInStock >= 0),
               CONSTRAINT u_Phone_Brand_Model_color_and_Storage_Capacity_must_be_UNIQUE UNIQUE (PhoneBrand, PhoneModel, PhoneColor, StorageCapacity)
-       )
+       ) 

@@ -40,4 +40,4 @@ union SELECT 'Motorola', 'Edge 30', '256GB', 'Blue', 549.99, '2024-03-11', 13
 union SELECT 'Motorola', 'Moto G Power', '128GB', 'Black', 249.99, '2024-01-19', 28
 union SELECT 'Huawei', 'P40', '128GB', 'Silver', 699.99, '2023-07-07', 8
 union SELECT 'Huawei', 'P40', '256GB', 'Black', 749.99, '2023-07-07', 6
-union SELECT 'Huawei', 'Nova 9', '128GB', 'Blue', 499.99, '2024-02-28', 12
+union SELECT 'Huawei', 'Nova 9', '128GB', 'Blue', 499.99, '2024-02-28', 12 
